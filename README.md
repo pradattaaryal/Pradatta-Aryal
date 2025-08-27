@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Pradatta Aryal</h1>
 <h3 align="center">A passionate developer from Nepal</h3>
  
-
+<a href="https://github.com/pradattaaryal/"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ujjwalnp&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="pradatta's github stats" /></a> | <a href="https://github.com/pradattaaryal/"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ujjwalnp&layout=compact&theme=tokyonight&hide_border=true" /></a>
 - 🔭 I’m currently working on **c# .Net backend**
 
 - 🌱 I’m currently learning **.Net**
