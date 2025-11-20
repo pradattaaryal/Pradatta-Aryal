@@ -13,7 +13,6 @@
 
 - 📫 How to reach me **pradattaaryal2468@gmail.com**
 
-- ⚡ Fun fact **I think Thanos was Right**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
