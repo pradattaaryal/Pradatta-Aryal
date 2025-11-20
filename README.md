@@ -3,13 +3,13 @@
 <h3 align="center">A passionate developer from Nepal</h3>
  
 
-- 🔭 I’m currently working on **Nest Backend and Devops**
+- 🔭 I’m currently working on **.Net Backend and Devops**
 
-- 🌱 I’m currently learning **Devops**
+- 🌱 I’m currently learning **Devops, Iot in .Net**
 
 - 👨‍💻 All of my projects are available at [https://profile-rust-kappa.vercel.app/](https://profile-rust-kappa.vercel.app/)
 
-- 💬 Ask me about **React, Node, c#**
+- 💬 Ask me about **c#, .Net, React, Node,**
 
 - 📫 How to reach me **pradattaaryal2468@gmail.com**
 
