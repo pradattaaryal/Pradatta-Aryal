@@ -3,7 +3,7 @@
 <h3 align="center">A passionate developer from Nepal</h3>
  
 
-- 🔭 I’m currently working on **.Net Backend and Devops**
+- 🔭 I’m currently working on ** AWS certifiedfullstack developer and Devops**
 
 - 🌱 I’m currently learning **Devops, Iot in .Net**
 
